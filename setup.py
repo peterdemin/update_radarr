@@ -10,7 +10,7 @@ install_requires = [
 
 setup(
     name='update_radarr',
-    version='0.0.1',
+    version='0.0.2',
     description="Update Radarr from GitHub",
     long_description='Download latest Radarr release from GitHub and untar it in /opt/Radarr',
     author="Peter Demin",
